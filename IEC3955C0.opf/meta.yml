@@ -1,0 +1,28 @@
+id: IEC3955C0
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 10:34:18.879012+00:00
+last_modified: 2022-12-14 10:34:18.879025+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:37:56.261Z'
+  creationid: celso
+  eft-text-id: UT22084-051-003
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_115-The_Display_of_the_Pure_Land_of_Sukhavati-v1
+bases:
+  767E:
+    source_metadata: null
+    order: 1
+    base_file: 767E.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
